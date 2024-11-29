@@ -13,8 +13,8 @@ namespace HM
    class IMAPConfiguration  
    {
    public:
-	   IMAPConfiguration();
-	   virtual ~IMAPConfiguration();
+      IMAPConfiguration();
+      virtual ~IMAPConfiguration();
 
       bool Load();
 

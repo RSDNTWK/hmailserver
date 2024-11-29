@@ -9,8 +9,9 @@
 #include "Canonicalization.h"
 
 #include "../../BO/Message.h"
-#include "../../BO/Domain.h"
 #include "../../BO/Alias.h"
+#include "../../BO/Domain.h"
+#include "../../BO/DomainAliases.h"
 #include "../../Application/ObjectCache.h"
 #include "../../Cache/CacheContainer.h"
 #include "../../Util/Hashing/HashCreator.h"
